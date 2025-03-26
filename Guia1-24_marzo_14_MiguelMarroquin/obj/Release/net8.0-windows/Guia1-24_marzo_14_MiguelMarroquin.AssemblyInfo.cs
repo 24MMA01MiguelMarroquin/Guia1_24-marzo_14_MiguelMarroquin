@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guia1-24_marzo_14_MiguelMarroquin")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f0f6646e396c2f30f1733c4e0bbe4777e0255a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guia1-24_marzo_14_MiguelMarroquin")]

@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LABORATORIO\\.nuget\\packages\\": {},
+    "C:\\Users\\mikeg\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LABORATORIO\\Desktop\\P1 Miguel Marroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin.csproj",
+      "projectUniqueName": "C:\\Users\\mikeg\\source\\repos\\24MMA01MiguelMarroquin\\Guia1_24-marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin.csproj",
       "projectName": "Guia1-24_marzo_14_MiguelMarroquin",
-      "projectPath": "C:\\Users\\LABORATORIO\\Desktop\\P1 Miguel Marroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin.csproj",
-      "packagesPath": "C:\\Users\\LABORATORIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LABORATORIO\\Desktop\\P1 Miguel Marroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\obj\\",
+      "projectPath": "C:\\Users\\mikeg\\source\\repos\\24MMA01MiguelMarroquin\\Guia1_24-marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin.csproj",
+      "packagesPath": "C:\\Users\\mikeg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mikeg\\source\\repos\\24MMA01MiguelMarroquin\\Guia1_24-marzo_14_MiguelMarroquin\\Guia1-24_marzo_14_MiguelMarroquin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LABORATORIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mikeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

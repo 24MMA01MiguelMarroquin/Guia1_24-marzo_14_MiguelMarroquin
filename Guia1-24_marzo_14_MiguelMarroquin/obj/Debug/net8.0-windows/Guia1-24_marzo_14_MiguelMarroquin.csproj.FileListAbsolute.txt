@@ -16,3 +16,24 @@ C:\Users\LABORATORIO\Desktop\P1 Miguel Marroquin\Guia1-24_marzo_14_MiguelMarroqu
 C:\Users\LABORATORIO\Desktop\P1 Miguel Marroquin\Guia1-24_marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\ref\Guia1-24_marzo_14_MiguelMarroquin.dll
 C:\Users\LABORATORIO\Desktop\P1 Miguel Marroquin\Guia1-24_marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.ejercicio1.resources
 C:\Users\LABORATORIO\Desktop\P1 Miguel Marroquin\Guia1-24_marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.ejercicio2.resources
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\bin\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.exe
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\bin\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.deps.json
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\bin\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.runtimeconfig.json
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\bin\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.dll
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\bin\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.pdb
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.ejercicio1.resources
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.ejercicio2.resources
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.ejercicio3.resources
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.Form1.resources
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.csproj.GenerateResource.cache
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.AssemblyInfoInputs.cache
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.AssemblyInfo.cs
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.csproj.CoreCompileInputs.cache
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.sourcelink.json
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.dll
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\refint\Guia1-24_marzo_14_MiguelMarroquin.dll
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.pdb
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1-24_marzo_14_MiguelMarroquin.genruntimeconfig.cache
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\ref\Guia1-24_marzo_14_MiguelMarroquin.dll
+C:\Users\mikeg\source\repos\24MMA01MiguelMarroquin\Guia1_24-marzo_14_MiguelMarroquin\Guia1-24_marzo_14_MiguelMarroquin\obj\Debug\net8.0-windows\Guia1_24_marzo_14_MiguelMarroquin.Ejercicio4.resources

@@ -32,5 +32,17 @@ namespace Guia1_24_marzo_14_MiguelMarroquin
             ejercicio2 ejercicio2 = new ejercicio2();
             ejercicio2.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ejercicio3 ejercicio3 = new ejercicio3();
+            ejercicio3.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Ejercicio4 ejercicio4 = new Ejercicio4();
+            ejercicio4.Show();
+        }
     }
 }
